@@ -1,0 +1,10 @@
+name = "cf-ai-chatbot"
+main = "src/workers/chatbot.js"
+compatibility_date = "2023-11-21"
+
+[ai]
+binding = "AI"
+remote = true
+
+[vars]
+CF_ACCOUNT_ID = "dc9bd2a8d077e9a7da364ec293c50004"
